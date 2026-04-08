@@ -1,2 +1,2 @@
 # nassau-candy-profitability-analysis
-Product Line Profitability &amp; Margin Performance Analysis using Python, Pandas, Plotly, and Streamlit.
+Interactive Streamlit dashboard analyzing product profitability and margin performance using Python, Pandas, NumPy, Plotly, and Matplotlib.
